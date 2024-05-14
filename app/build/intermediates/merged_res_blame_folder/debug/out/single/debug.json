@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_worldwide.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\worldwide.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_history.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_quiz.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz_option.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_quiz_option.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rule.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_history.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\history.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_incorrect.gif.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\incorrect.gif"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final_result.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_final_result.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_rules.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\slide_rules.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_question1.gif.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable-v24\\question1.gif"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_bg.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\home_bg.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_item_history.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_noted.gif.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\noted.gif"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\icon.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_blackboard.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\blackboard.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_rules.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\rules.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_password.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_edit_password.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_math_quiz.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_math_quiz.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_correct.gif.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\correct.gif"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_keys.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\keys.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_geography_or_literature_quiz.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\layout\\activity_geography_or_literature_quiz.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_book.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\book.xml"
+    },
+    {
+        "merged": "F:\\Android_studio_project\\Quiz_App\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected.xml.flat",
+        "source": "F:\\Android_studio_project\\Quiz_App\\app\\src\\main\\res\\drawable\\unselected.xml"
+    }
+]

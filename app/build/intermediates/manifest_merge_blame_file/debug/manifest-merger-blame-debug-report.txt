@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.QuizApp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="Quiz App"
+17-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:8:9-33
+18        android:roundIcon="@mipmap/ic_launcher"
+18-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:9:9-48
+19        android:supportsRtl="true"
+19-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.QuizForFun" >
+21-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:11:9-48
+22        <activity android:name="com.example.QuizApp.GeographyOrLiteratureQuizActivity" />
+22-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:12:9-80
+22-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:12:19-68
+23        <activity android:name="com.example.QuizApp.FinalResultActivity" />
+23-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:13:9-57
+23-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:13:19-54
+24        <activity android:name="com.example.QuizApp.MathQuizActivity" />
+24-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:14:9-54
+24-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:14:19-51
+25        <activity android:name="com.example.QuizApp.EditPasswordActivity" />
+25-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:15:9-58
+25-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:15:19-55
+26        <activity android:name="com.example.QuizApp.HistoryActivity" />
+26-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:16:9-53
+26-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:16:19-50
+27        <activity android:name="com.example.QuizApp.RuleActivity" />
+27-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:17:9-50
+27-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:17:19-47
+28        <activity android:name="com.example.QuizApp.QuizOptionActivity" />
+28-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:18:9-56
+28-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:18:19-53
+29        <activity android:name="com.example.QuizApp.RegisterActivity" />
+29-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:19:9-54
+29-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:19:19-51
+30        <activity
+30-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:20:9-27:20
+31            android:name="com.example.QuizApp.LoginActivity"
+31-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:21:13-42
+32            android:exported="true" >
+32-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:22:13-36
+33            <intent-filter>
+33-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:23:13-26:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:24:17-69
+34-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:24:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:25:17-77
+36-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:25:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.example.QuizApp.MainActivity" />
+39-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:28:9-50
+39-->F:\Android_studio_project\Quiz_App\app\src\main\AndroidManifest.xml:28:19-47
+40
+41        <service
+41-->[androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+42            android:name="androidx.room.MultiInstanceInvalidationService"
+42-->[androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+43            android:directBootAware="true"
+43-->[androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+44            android:exported="false" />
+44-->[androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+45    </application>
+46
+47</manifest>
