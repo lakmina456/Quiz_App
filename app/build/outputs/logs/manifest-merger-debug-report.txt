@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\02a912ad78f66ad7e675c783c9c0b3b7\transformed\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.tbuonomo:dotsindicator:4.2] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\3dfef72f6efae64cc567fba427c86656\transformed\jetified-dotsindicator-4.2\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\606c7f56e906d44c3763a7129de096d8\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d97803f063e179b534643ace5638d41e\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\37507b9879e966fc127e01baca224a73\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b9f1aa4c45efdebe6b4f139943aab78f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ae92e83163845e14f05becc2d3690d7a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e5d904bccea6d341dd1268953c3a0b8a\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c9139eeeea2314ac22321a8a62bf170e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\23db5265427a05c5e21acf27b11468af\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9b3d384c4dd17291859cac7c83a8ce24\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6cb504d54e2dfea94cb28f30ead15ede\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c53b6ea97478325fe6e8ed3a714e1c40\transformed\sqlite-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6c0970b5ba0fc18a19c311f480be7b66\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\38159539f8184ae088cc850cffec6b21\transformed\core-runtime-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ffc2d1fe4204e773d6d96e18f3cd5023\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\7a6b72f13d847dc7bbdce7ee2d4e479a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\20aee4edada2586568338e2e31f6e0a1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\16678006e77c40687e15cfc3179bb779\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\8b6a69396be806db94314afdf86e066b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e01ed15e47b5a669c7e262213c9137c9\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:2:1-7:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\02a912ad78f66ad7e675c783c9c0b3b7\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\02a912ad78f66ad7e675c783c9c0b3b7\transformed\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.tbuonomo:dotsindicator:4.2] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\3dfef72f6efae64cc567fba427c86656\transformed\jetified-dotsindicator-4.2\AndroidManifest.xml:11:5-47
+MERGED from [com.tbuonomo:dotsindicator:4.2] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\3dfef72f6efae64cc567fba427c86656\transformed\jetified-dotsindicator-4.2\AndroidManifest.xml:11:5-47
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ffc2d1fe4204e773d6d96e18f3cd5023\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ffc2d1fe4204e773d6d96e18f3cd5023\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:8:9-33
+	android:roundIcon
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:9:9-48
+	android:icon
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:11:9-48
+activity#com.example.QuizApp.OperationalOrSecurityQuizActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:12:9-70
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:12:19-68
+activity#com.example.QuizApp.FinalResultActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:13:9-57
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:13:19-54
+activity#com.example.QuizApp.MobileQuizActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:14:9-56
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:14:19-53
+activity#com.example.QuizApp.EditPasswordActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:15:9-58
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:15:19-55
+activity#com.example.QuizApp.HistoryActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:16:9-53
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.example.QuizApp.RuleActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:17:9-50
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:17:19-47
+activity#com.example.QuizApp.QuizOptionActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:18:19-53
+activity#com.example.QuizApp.RegisterActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:19:19-51
+activity#com.example.QuizApp.LoginActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:exported
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:21:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.QuizApp.MainActivity
+ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml:28:19-47
+uses-sdk
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\02a912ad78f66ad7e675c783c9c0b3b7\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\02a912ad78f66ad7e675c783c9c0b3b7\transformed\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbuonomo:dotsindicator:4.2] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\3dfef72f6efae64cc567fba427c86656\transformed\jetified-dotsindicator-4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo:dotsindicator:4.2] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\3dfef72f6efae64cc567fba427c86656\transformed\jetified-dotsindicator-4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\606c7f56e906d44c3763a7129de096d8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\606c7f56e906d44c3763a7129de096d8\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d97803f063e179b534643ace5638d41e\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d97803f063e179b534643ace5638d41e\transformed\jetified-android-gif-drawable-1.2.19\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c697e65a75cbd8a86f2882a19a69f38c\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\11ca12d675cf4b19512add0217bc583a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\37507b9879e966fc127e01baca224a73\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\37507b9879e966fc127e01baca224a73\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b9f1aa4c45efdebe6b4f139943aab78f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b9f1aa4c45efdebe6b4f139943aab78f\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ae92e83163845e14f05becc2d3690d7a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ae92e83163845e14f05becc2d3690d7a\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9713fc849a76f43c79a876cdf48a56fb\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ec74ba7e6152a4e4012190b3775ef2e3\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e5d904bccea6d341dd1268953c3a0b8a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e5d904bccea6d341dd1268953c3a0b8a\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\d362e46fbcfcf7ed71c727b5e93485f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\cd9235223ec9d10d222143bdb68dd0c2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ea46585f201b1f9be3da156d4dfcebd5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\422d597bd44c5d09daa017c34c02e57b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c642e67d96d4a1db669d3231ba451edc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\a1ad41facbcda7480c6fa8f62e9619cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c9139eeeea2314ac22321a8a62bf170e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c9139eeeea2314ac22321a8a62bf170e\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\23db5265427a05c5e21acf27b11468af\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\23db5265427a05c5e21acf27b11468af\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9b3d384c4dd17291859cac7c83a8ce24\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\9b3d384c4dd17291859cac7c83a8ce24\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\4e75c6495e867ccb2a4d1ab0c9d57948\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6cb504d54e2dfea94cb28f30ead15ede\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6cb504d54e2dfea94cb28f30ead15ede\transformed\sqlite-framework-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c53b6ea97478325fe6e8ed3a714e1c40\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\c53b6ea97478325fe6e8ed3a714e1c40\transformed\sqlite-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\32c3610f18531da74763446d5f131d1d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6c0970b5ba0fc18a19c311f480be7b66\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6c0970b5ba0fc18a19c311f480be7b66\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\38159539f8184ae088cc850cffec6b21\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\38159539f8184ae088cc850cffec6b21\transformed\core-runtime-2.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ffc2d1fe4204e773d6d96e18f3cd5023\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\ffc2d1fe4204e773d6d96e18f3cd5023\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\7a6b72f13d847dc7bbdce7ee2d4e479a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\7a6b72f13d847dc7bbdce7ee2d4e479a\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\20aee4edada2586568338e2e31f6e0a1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\20aee4edada2586568338e2e31f6e0a1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\16678006e77c40687e15cfc3179bb779\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\16678006e77c40687e15cfc3179bb779\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\6316b6f2dfa002117d96d07cdaaed894\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84fc4a426695bb1053ed765dcd9bd463\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\84ea29c0ef54b70de21f3b1a96aa5cf4\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\14e6f677e05a7d74522d54c87c8053b0\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\8b6a69396be806db94314afdf86e066b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\8b6a69396be806db94314afdf86e066b\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e01ed15e47b5a669c7e262213c9137c9\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\e01ed15e47b5a669c7e262213c9137c9\transformed\jetified-relinker-1.3.1\AndroidManifest.xml:5:5-43
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		ADDED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Campus\3rd year\1 semester\ICT 3214 - Mobile Application Development\Quiz_App\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Isuru Lakmina\.gradle\caches\transforms-3\b87ccead2a5fa8a53db4f3ad833ae7f0\transformed\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
