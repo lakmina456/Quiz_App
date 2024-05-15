@@ -1,4 +1,14 @@
 # 🧠 Quiz App 📝
+<div align="center">
+    <img alt="Demo" src="Screenshots/1.png" width="30%" />
+</div>
+<div align="center">
+    <img alt="Demo" src="Screenshots/3.png" width="30%" />
+</div>
+# Github link 
+
+	https://github.com/lakmina456/Quiz_App
+
 
 ## **🛠️ Technologies Used**
 
@@ -15,10 +25,12 @@ This project was built using the following technologies.
 
 - **📱 Responsive Design**: Ensure the app works well on various screen sizes and orientations.
 
-- **🔄 Randomized Questions**: Randomly select questions from a pool to keep the quiz engaging each time.
+- **📚 History**: Allow users to view their quiz history and performance over time.
+
+- **🔑 Change Password**: Provide users with the ability to change their account password for security purposes.
 
 ## **🚀 Installation**
-- Clone the repository: `git clone https://github.com/your-username/Quiz_App.git`
+- Clone the repository: `git clone https://github.com/lakmina456/Quiz_App.git`
 
 ## 🤝 Contributing
 
