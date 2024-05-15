@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_quiz.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_book_1.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\book_1.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_cyber_security.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\cyber_security.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_quiz_option.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_quiz_option.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_rules.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\rules.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mobile_quiz.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_mobile_quiz.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_home_bg.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\home_bg.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_arrow.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\arrow.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_history.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_final_result.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_final_result.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_history.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\item_history.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_blackboard.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\blackboard.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_noted.gif.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\noted.gif"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_forgot_password.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\forgot_password.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bo_1.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\bo_1.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_time_management.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\time_management.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_operational_or_secuity_quiz.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_operational_or_secuity_quiz.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_incorrect.gif.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\incorrect.gif"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_unselected.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\unselected.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_password.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_edit_password.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_question1.gif.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable-v24\\question1.gif"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_android.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\android.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_log.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\log.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_correct.gif.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\correct.gif"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_selected.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\selected.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_quiz_1.png.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\drawable\\quiz_1.png"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rule.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\activity_rule.xml"
+    },
+    {
+        "merged": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\merged_res\\debug\\layout_slide_rules.xml.flat",
+        "source": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\src\\main\\res\\layout\\slide_rules.xml"
+    }
+]

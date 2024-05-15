@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.QuizApp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="30"
+        android:targetSdkVersion="34" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@drawable/icon"
+        android:label="Quiz App"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.QuizForFun" >
+        <activity android:name="com.example.QuizApp.OperationalOrSecurityQuizActivity" />
+        <activity android:name="com.example.QuizApp.FinalResultActivity" />
+        <activity android:name="com.example.QuizApp.MobileQuizActivity" />
+        <activity android:name="com.example.QuizApp.EditPasswordActivity" />
+        <activity android:name="com.example.QuizApp.HistoryActivity" />
+        <activity android:name="com.example.QuizApp.RuleActivity" />
+        <activity android:name="com.example.QuizApp.QuizOptionActivity" />
+        <activity android:name="com.example.QuizApp.RegisterActivity" />
+        <activity
+            android:name="com.example.QuizApp.LoginActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.QuizApp.MainActivity" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" />
+    </application>
+
+</manifest>

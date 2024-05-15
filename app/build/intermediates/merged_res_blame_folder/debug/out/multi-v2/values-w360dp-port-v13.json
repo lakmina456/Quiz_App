@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Campus\\3rd year\\1 semester\\ICT 3214 - Mobile Application Development\\Quiz_App-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Isuru Lakmina\\.gradle\\caches\\transforms-3\\02a912ad78f66ad7e675c783c9c0b3b7\\transformed\\material-1.2.1\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,170,226,293,358,413,478",
+                        "endColumns": "58,55,55,66,64,54,64,68",
+                        "endOffsets": "109,165,221,288,353,408,473,542"
+                    }
+                }
+            ]
+        }
+    ]
+}
