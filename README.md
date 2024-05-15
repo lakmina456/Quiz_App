@@ -1,9 +1,8 @@
 # 🧠 Quiz App 📝
 <div align="center">
+    <img alt="Demo" src="Screenshots/0.png" width="30%" />
     <img alt="Demo" src="Screenshots/1.png" width="30%" />
-</div>
-<div align="center">
-    <img alt="Demo" src="Screenshots/3.png" width="30%" />
+    <img alt="Demo" src="Screenshots/2.png" width="30%" />
 </div>
 # Github link 
 
